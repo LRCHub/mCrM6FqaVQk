@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "朔日 feat. 吉乃",
+  "base_artist": "月詠み",
+  "createdAt": "2026-02-11T01:46:53.461552Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "朔日",
+      "artist": "帰りの会",
+      "has_synced": true,
+      "path": "select/01_朔日_帰りの会.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "朔日 feat. 吉乃",
+      "artist": "月詠み",
+      "has_synced": false,
+      "path": "select/pl_01_朔日_feat._吉乃_月詠み.txt"
+    }
+  ]
+}
